@@ -16,7 +16,7 @@
 
 ### 🔭 About Me
 
-I'm a Junior Electronics & Communication Engineering student at Cairo University (Expected 2028), currently seeking an **Analog Design Graduation Project**. 
+I'm a Junior Electronics & Communication Engineering student at Cairo University (Expected 2028). 
 
 I specialize in transistor-level circuit design across various CMOS nodes (TSMC 65nm, GlobalFoundries 180nm, and SkyWater 130nm), taking designs from hand analysis all the way through simulation, layout, and verification.
 
