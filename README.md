@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" width="600" alt="Chip Banner" />
+  <img src="./images/Perceptron_tb.png" width="800" alt="Cadence Schematic Banner" />
   
   <br/>
   <br/>
@@ -47,8 +47,6 @@ I like circuits where the hand analysis and the simulation are made to agree —
 - 🔋 **LDO Power Management (65nm CMOS):** Designed an LDO Regulator utilizing gm/ID, evaluating phase margin stability, PSRR, and line/load regulation via rigorous Spectre simulations.
 - 🔬 **Telescopic Cascode OTA (0.18µm CMOS):** Designed a single-ended Telescopic Cascode OTA achieving DC gain ≥74dB, CMRR ≥114dB, and GBW ≥20MHz (CL = 5pF). Sized using ADT Device Xplore charts.
 - 🧠 **High-Speed Perceptron in 65nm CMOS:** Transistor-level barrel-shifter multiplier + Ripple-Carry adder, Logical Effort sizing, self-checking VerilogA/Spectre AMS testbench, clean DRC/LVS layout (39.5µW average power, 164.3ps max propagation delay).
-  <br/>
-  <img src="./images/Perceptron_tb.png" width="800" alt="Perceptron Schematic">
 - ⏱️ **High-Speed TSPC Frequency Divider (65nm CMOS):** Designed a high-speed True Single-Phase Clock (TSPC) D-Flip-Flop frequency divider optimizing power-delay product (fT = 282GHz).
 - 👁️ **RISC-V Vectorized Canny Edge Detection (C, QEMU):** Developed and cross-compiled algorithm utilizing RISC-V vector extensions.
 - 📡 **FMCW Radar System Simulation (MATLAB):** Executed full signal-processing chain (chirp generation, range-FFT) to extract target range/velocity.
